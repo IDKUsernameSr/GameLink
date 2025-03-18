@@ -1,0 +1,32 @@
+{
+  "name": "puramoda",
+  "version": "1.0.0",
+  "description": "package puramoda",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cauastracke/sitepuramodacaua.git"
+  },
+  "author": "Cauã",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cauastracke/sitepuramodacaua/issues"
+  },
+  "homepage": "https://github.com/Cauastracke/sitepuramodacaua#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "connect-session-sequelize": "^7.1.7",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "express-session": "^1.18.1",
+    "mysql2": "^3.11.5",
+    "nodemon": "^3.1.7",
+    "path": "^0.12.7",
+    "puramoda": "file:",
+    "sequelize": "^6.37.5",
+    "sqlite3": "^5.1.7"
+  }
+}
