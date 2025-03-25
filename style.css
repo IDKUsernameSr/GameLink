@@ -129,7 +129,7 @@
   z-index: 999999999;
   width: 100%;
   height: 100%;
-  background-color: #fff;
+  background-color: #433b6e;
   overflow: hidden;
 }
 .preloader-inner {
@@ -390,7 +390,7 @@
 }
 .header.shop .list-main li {
 	display: inline-block;
-	color: #333;
+	color: #e8daff;
 	font-size: 13px;
 	font-weight: 500;
 	border-right: 1px solid #f0f0f0;
@@ -409,7 +409,7 @@
 	border:none;
 }
 .header.shop .list-main li a{
-	color:#333;
+	color:#e8daff;
 }
 .header.shop .list-main li a:hover{
 	color:#F7941D;
@@ -602,7 +602,7 @@
 	float: left;
 }
 .header.shop .topbar {
-	background-color: #fff;
+	background-color: #433b6e;
 	border: none;
 }
 .header.shop.v3 .topbar{
@@ -624,7 +624,13 @@
 }
 /* Header Middle */
 .header.shop .search-bar-top {
+	position: relative;
 	text-align: center;
+	padding: 1px;
+	margin: 0 auto;
+	background-color: #8d7fa3;
+	border-radius: 6%;
+	width: 60%;
 	margin-top: 10px;
 }
 .header.shop .search-bar {
@@ -656,13 +662,13 @@
 	background: transparent;
 	text-transform: capitalize;
 	padding: 0 0 0 20px;
-	border-right: 1px solid #eee;
+	border-right: 1px solid #212129;
 	line-height: 50px;
 	font-size: 14px;
 	font-weight: 400;
 }
 .header.shop .nice-select::after {
-	border-color: #666;
+	border-color: #18171d;
 	right: 20px;
 }
 .header.shop .nice-select .list {
@@ -731,21 +737,21 @@
 }
 .header.shop .middle-inner {
 	padding: 20px 0;
-	background: #fff;
-	border-top: 1px solid #eee;
+	background: #433b6e;
+	border-top: 1px solid #ffffff;
 }
 .header.shop.v3 .middle-inner {
 	border:none;
 }
 .header.shop .header-inner {
-	background: #333;
+	background: #fffdfd;
 }
 .header.shop.v3 .header-inner {
 	background: transparent;
 }
 .header.shop.v2 .header-inner {
-	background: #fff;
-	border-top:1px solid #eee;
+	background: #433b6e;
+	border-top:1px solid #e8daff;
 }
 .header.shop .topbar p {
 	color: #333;
@@ -993,7 +999,7 @@
 	background:#fff;
 }
 .header.shop.v2 .nav li .dropdown li a {
-	color: #333;
+	color: #e8daff;
 	background:#fff;
 }
 .header.shop .nav li .dropdown li a {
@@ -1025,7 +1031,7 @@
 	color:#F7941D;
 }
 .header.shop .right-bar .sinlge-bar .single-icon{
-	color:#333;
+	color:#e8daff;
 	font-size:20px;
 	position:relative;
 }

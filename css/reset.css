@@ -181,9 +181,8 @@ h1, h2, h3, h4, h5, h6 {
 	margin: 0;
 }
 p {
-	color:#757575;
-	margin: 0;
-	line-height:24px;
+	color:#e8daff;
+	line-height: 24px;
 }
 a,button,input{
 	font-weight:400;
@@ -244,7 +243,7 @@ big {
 	margin-bottom: 0;
 	text-transform: capitalize;
 	position: relative;
-	color: #2c2d3f;
+	color: #e8daff;
 	font-weight: 700;
 	margin-bottom: 10px;
 	padding-bottom: 15px;
@@ -589,7 +588,7 @@ dd {
 img {
 	height: auto;
 	/* Make sure images are scaled correctly. */
-	max-width: 100%;
+	max-width: 200%;
 	/* Adhere to container width. */
 }
 
