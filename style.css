@@ -129,7 +129,7 @@
   z-index: 999999999;
   width: 100%;
   height: 100%;
-  background-color: #433b6e;
+  background-color: #3a2b53;
   overflow: hidden;
 }
 .preloader-inner {
@@ -628,29 +628,25 @@
 	text-align: center;
 	padding: 1px;
 	margin: 0 auto;
-	background-color: #8d7fa3;
-	border-radius: 6%;
-	width: 60%;
-	margin-top: 10px;
 }
 .header.shop .search-bar {
 	margin-top: 33px;
 	width: 460px;
 	height: 40px;
 	display: inline-block;
-	background: #fff;
+	background: #e8daff;
 	position: relative;
 }
 .header.shop .search-bar {
 	width: 535px;
 	height: 50px;
 	display: inline-block;
-	background: #fff;
+	background: #e8daff;
 	position: relative;
 	margin: 0;
 	line-height: 45px;
 	border-radius: 5px;
-	border: 1px solid #ececec;
+	border: 1px solid #3a2b53;
 }
 .header.shop .nice-select {
 	clear: initial;
@@ -678,7 +674,7 @@
 	font-weight:400;
 }
 .header.shop .nice-select .list li {
-	color: #666;
+	color: #e8daff;
 	border-radius: 0px;
 	font-size: 14px;
 	font-weight: 400;
@@ -695,7 +691,7 @@
 .header.shop .search-bar input {
 	height: 48px;
 	background: transparent;
-	color: #666;
+	color:  #433b6e;
 	border-radius: 0;
 	border: none;
 	font-size: 14px;
@@ -709,8 +705,8 @@
 	width: 62px;
 	text-align: center;
 	font-size: 18px;
-	color: #fff;
-	background: #333333;
+	color: #e8daff;
+	background:  #3a2b53;
 	position: absolute;
 	right: -2px;
 	top: -1px;
@@ -738,7 +734,7 @@
 .header.shop .middle-inner {
 	padding: 20px 0;
 	background: #433b6e;
-	border-top: 1px solid #ffffff;
+	border-top: 1px solid #433b6e;
 }
 .header.shop.v3 .middle-inner {
 	border:none;
@@ -751,7 +747,7 @@
 }
 .header.shop.v2 .header-inner {
 	background: #433b6e;
-	border-top:1px solid #e8daff;
+	border-top:1px solid #433b6e;
 }
 .header.shop .topbar p {
 	color: #333;
@@ -940,7 +936,7 @@
 	display: block;
 }
 .header.shop.v2 .nav li a{
-	color:#333;
+	color:#e8daff;
 }
 .header.shop .nav li a {
 	color: #fff;
@@ -2928,8 +2924,9 @@
 	background: #fff;
 }
 .shopping-cart {
-	background: #f6f6f6;
+	background: #433b6e;
 	padding: 50px 0;
+	border-top: 1px solid #e8daff;
 }
 .shopping-summery thead .main-hading{
 	padding:0px 50px;
@@ -2964,7 +2961,7 @@
 }
 .shopping-cart .table p {
 	font-size: 14px;
-	color: #666;
+	color: #e8daff;
 }
 .shopping-summery tbody .product-name a:hover{
 	color:#F7941D;
@@ -2992,6 +2989,8 @@
 	vertical-align: middle;
 	border-top: 1px solid #eee;
 	padding: 30px;
+	background-color: #e8daff;
+	color: #282133;
 }
 .shopping-summery tbody .price {
 	text-align: center;
@@ -3059,7 +3058,7 @@
 	width: 220px;
 	display: inline-block;
 	height: 48px;
-	color: #333;
+	color: #e8daff;
 	padding: 0px 20px;
 	border: none;
 	box-shadow: 0px 0px 5px #0000000a;
@@ -3070,7 +3069,7 @@
 	border: navajowhite;
 	margin-left: 4px;
 	background: transparent;
-	color: #333;
+	color: #e8daff;
 	background: #fff;
 	box-shadow: 0px 0px 5px #00000012;
 }
@@ -3081,7 +3080,7 @@
 .shopping-cart .total-amount .left label{
 	font-size:22px;
 	font-weight:500;
-	color:#333;
+	color:#e8daff;
 }
 .shopping-cart .total-amount .left .checkbox {
 	text-align: left;
@@ -3091,7 +3090,7 @@
 .shopping-cart .total-amount .left .checkbox label {
 	font-size: 15px;
 	font-weight: 400;
-	color: #333;
+	color: #e8daff;
 	position: relative;
 	padding-left: 30px;
 }
@@ -3145,13 +3144,13 @@
 .shopping-cart .total-amount .right ul li {
 	font-size: 15px;
 	font-weight: 400;
-	color: #333;
+	color: #e8daff;
 	margin-bottom: 12px;
 }
 .shopping-cart .total-amount .right ul li.last {
 	padding-top: 12px;
 	border-top: 1px solid #c8c8c8;
-	color: #333;
+	color: #e8daff;
 	font-size: 15px;
 	font-weight: 400;
 }
@@ -3178,7 +3177,7 @@
 ========================================*/
 .shop.checkout {
 	padding: 0;
-	background: #fff;
+	background: #e8daff;
 	padding-top: 20px;
 	padding-bottom: 50px;
 }
@@ -3187,13 +3186,13 @@
 }
 .shop.checkout .checkout-form h2 {
 	font-size: 25px;
-	color: #333;
+	color: #e8daff;
 	font-weight: 700;
 	line-height: 27px;
 }
 .shop.checkout .checkout-form p {
 	font-size: 16px;
-	color: #333;
+	color: #e8daff;
 	font-weight: 400;
 	margin-top: 12px;
 	margin-bottom: 30px;
@@ -3203,7 +3202,7 @@
 	margin-bottom: 25px;
 }
 .shop.checkout .form .form-group label{
-	color:#333;
+	color:#e8daff;
 	position:relative;
 }
 .shop.checkout .form .form-group label span {
@@ -3221,7 +3220,7 @@
 	padding: 0 20px;
 	border-radius: 3px;
 	border-radius: 0px;
-	color: #333 !important;
+	color: #e8daff !important;
 	border: none;
 	background: #F6F7FB;
 }
@@ -3743,11 +3742,11 @@
 ========================================*/
 .shop-services.section {
 	padding: 80px 0 0px 0;
-	background: #fff;
+	background: #433b6e;
 }
 .shop-services.home{
 	padding:60px 0;
-	background:#F6F7FB;
+	background:#433b6e;
 }
 .shop-services .single-service {
 	position: relative;
@@ -3787,7 +3786,7 @@
    Start Shop Newsletter CSS
 ========================================*/
 .shop-newsletter{
-	background:#fff;
+	background:#433b6e;
 }
 .shop-newsletter .inner{
 	text-align:center;

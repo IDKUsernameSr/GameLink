@@ -170,7 +170,7 @@ input,
 select,
 optgroup,
 textarea {
-	color: #424646;
+	color: #e8daff;
     font-family: 'Poppins', sans-serif;
 	font-weight:400;
 	font-size: 14px;
@@ -283,9 +283,10 @@ big {
 }
 /* Bread Crumbs */
 .breadcrumbs {
-	background-color: #F6F7FB;
+	background-color: #433b6e;
 	position: relative;
 	padding: 30px 0px;
+	border-top: 1px solid #e8daff;
 }
 .breadcrumbs .bread-inner {
 	z-index: 22;
@@ -302,16 +303,16 @@ big {
 	margin: 0px 10px;
 	font-size: 9px;
 	font-weight: 600;
-	color: #333;
+	color: #e8daff;
 }
 .breadcrumbs ul li a {
-	color: #333;
+	color: #e8daff;
 	font-size: 14px;
 	font-weight: 400;
 	text-transform: capitalize;
 }
 .breadcrumbs ul li.active a {
-	color: #333;
+	color: #e8daff;
 	display: inline-block;
 }
 .breadcrumbs ul li a:hover{
