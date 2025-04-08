@@ -8,9 +8,9 @@
 .contact-us .single-info i,.slicknav_menu .slicknav_icon-bar,.error-page .button .btn:hover,.product-area .nav-tabs li a.active, .product-area .nav-tabs li:hover a,.section-title h2::before,.modal-dialog .modal-content .modal-header .close:hover,.quickview-content .nice-select .list li:hover,.quickview-content .quickview-peragraph ul li::before,.quickview-content .quickview-action-wrap .quickview-cart a:hover,.modal .owl-carousel .owl-nav div:hover,.quickview-content .add-to-cart .btn:hover,.single-product .product-img a span.price-dec{
 	background:#624b97;
 }
-.header.shop.v2 .nav li.active a{
+/* .header.shop.v2 .nav li.active a{
 	color:#e8daff!important;
-}
+} */
 .single-product .product-img .product-action a span,.header.shop.v2 .nav li.active .dropdown li a:hover{
 	background:#433b6e !important;
 }
